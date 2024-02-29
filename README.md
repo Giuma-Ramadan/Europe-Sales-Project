@@ -6,7 +6,7 @@ Analysing "Europe Sales Records"
 
 My plan :
 Become familiar with the dataset, clean it if needed sort the formatting, remove duplicates etc
-import into MySQL and answer the following questions that interested me while familiarising myself with the dataspreadsheet.
+import into MySQL and answer the following questions that interested me while familiarising myself with the data spreadsheet.
 
 In SQL started by doing:
 
